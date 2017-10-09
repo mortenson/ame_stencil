@@ -1,0 +1,9 @@
+name: Ame Stencil
+type: module
+description: 'Adds Ame Stencil Component support to Drupal.'
+package: Core
+version: VERSION
+core: 8.x
+dependencies:
+  - rest
+  - stencil

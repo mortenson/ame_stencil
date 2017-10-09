@@ -1,0 +1,17 @@
+{
+  "name": "drupal-ame-stencil",
+  "version": "1.0.0",
+  "description": "Adds Ame Stencil Component support to Drupal.",
+  "scripts": {
+    "copy": "mkdir -p stencil && cp -r node_modules/ame-components stencil/"
+  },
+  "author": "Samuel Mortenson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://www.drupal.org/project/issues/ame_stencil"
+  },
+  "homepage": "https://www.drupal.org/project/ame_stencil",
+  "dependencies": {
+    "ame-components": "github:mortenson/ame-components"
+  }
+}

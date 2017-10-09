@@ -1,0 +1,14 @@
+{
+    "name": "mortenson/ame_stencil",
+    "description": "A Drupal module showing off the basic behavior of ame-components",
+    "type": "drupal-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Mortenson",
+            "email": "samuel@mortenson.coffee"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

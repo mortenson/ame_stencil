@@ -1,3 +1,5 @@
 .idea
 stencil
 node_modules
+
+/vendor/

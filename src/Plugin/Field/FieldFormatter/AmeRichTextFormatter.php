@@ -56,7 +56,6 @@ class AmeRichTextFormatter extends FormatterBase {
             'ame-handler' => 'rest',
             'ame-resource' => $resource_url,
             'ame-path' => $name . '.' . $delta . '.format',
-            'ame-include-with' => $name . '.' . $delta . '.value',
             'return' => $item->format,
           ],
         ],
